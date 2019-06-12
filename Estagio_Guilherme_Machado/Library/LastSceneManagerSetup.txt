@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Torneio_Chaves.unity
+  isLoaded: 1
+  isActive: 1
