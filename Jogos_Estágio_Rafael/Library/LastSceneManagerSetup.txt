@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Jogo Pergunta e Resposta/Scenes/JogoPerguntaEResposta.unity
+  isLoaded: 1
+  isActive: 1
